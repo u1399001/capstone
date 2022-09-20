@@ -3,3 +3,8 @@ Green
 Blue
 Yellow
 Violet
+
+New colors:
+Brown
+Purple
+Sage Green
